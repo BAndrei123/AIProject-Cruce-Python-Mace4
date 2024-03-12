@@ -7,3 +7,5 @@ The project simulates just two parts of the "Cruce" card game. The first part is
 The second implemented part is the round winning decision-making. In "Cruce", after each player has played a card, the cards will be taken by the holder of the highest trump card (or the only trump card) played, or, if no trump card has been played, the cards will be taken by the player who played the highest card of the required suit (the suit of the first card) or the first card if no card was higher. Cards of other suits will not be higher, regardless of their value. Once the 4 cards are placed down, the application will determine which card is leading, and, together with it, the winner of the round.
 
 Because this project is aimed to show how can Mace4 use first-order logic to determine the output of the game using some rules, the following aspects of the game "Cruce" will be omitted: announcement, bidding, 4 player gameplay, scoring, and match ending.
+
+![](https://github.com/BAndrei123/AIProject-Cruce-Python-Mace4/blob/main/UI_photo.png)
